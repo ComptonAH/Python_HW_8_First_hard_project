@@ -1,0 +1,22 @@
+Name: Nikita
+Surname: Karetkin
+Patronymic: Olegovich
+Phone number: +759135
+Name: Artyom
+Surname: Bikov
+Patronymic: Sergeevich
+Phone number: +145678
+Name: Vladimir
+Surname: Doroshenko
+Patronymic: Andreevich
+Phone number: +4567832
+Name: Aliy
+Surname: Rubin
+Patronymic: Saphire
+Phone number: +457936
+
+Name: Sergei
+Surname: Proper
+Patronymic: Malovich
+Phone number: +784563
+
